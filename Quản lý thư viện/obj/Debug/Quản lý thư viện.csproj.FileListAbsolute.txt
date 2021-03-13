@@ -1,0 +1,37 @@
+D:\Application\Quản Lý Thư Viện\Quản lý thư viện\Quản lý thư viện\bin\Debug\Quản lý thư viện.exe.config
+D:\Application\Quản Lý Thư Viện\Quản lý thư viện\Quản lý thư viện\bin\Debug\Quản lý thư viện.exe
+D:\Application\Quản Lý Thư Viện\Quản lý thư viện\Quản lý thư viện\bin\Debug\Quản lý thư viện.pdb
+D:\Application\Quản Lý Thư Viện\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản lý thư viện.csprojAssemblyReference.cache
+D:\Application\Quản Lý Thư Viện\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.DangNhap.resources
+D:\Application\Quản Lý Thư Viện\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.Properties.Resources.resources
+D:\Application\Quản Lý Thư Viện\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản lý thư viện.csproj.GenerateResource.cache
+D:\Application\Quản Lý Thư Viện\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản lý thư viện.exe
+D:\Application\Quản Lý Thư Viện\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản lý thư viện.pdb
+D:\Application\Quản Lý Thư Viện\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.GiaoDienDocGia.resources
+D:\Application\Quản Lý Thư Viện\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.GiaoDienThuThu.resources
+D:\Application\Quản Lý Thư Viện\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.GiaoDienAdmin.resources
+D:\Application\Quản Lý Thư Viện\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.TimKiemCuaDocGia.resources
+D:\Application\Quản Lý Thư Viện\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.TimKiemCuaAdmin.resources
+D:\Application\Quản Lý Thư Viện\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.TimKiemCuaThuThu.resources
+D:\Application\Quản Lý Thư Viện\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.GiaoDienThemSach.resources
+D:\Application\Quản Lý Thư Viện\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.GiaoDienXoaSach.resources
+D:\Application\Quản Lý Thư Viện\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.GiaoDienCapNhat.resources
+D:\.NET\Project\Quản lý thư viện\Quản lý thư viện\bin\Debug\Quản lý thư viện.exe.config
+D:\.NET\Project\Quản lý thư viện\Quản lý thư viện\bin\Debug\Quản lý thư viện.exe
+D:\.NET\Project\Quản lý thư viện\Quản lý thư viện\bin\Debug\Quản lý thư viện.pdb
+D:\.NET\Project\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản lý thư viện.csprojAssemblyReference.cache
+D:\.NET\Project\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.DangNhap.resources
+D:\.NET\Project\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.GiaoDienAdmin.resources
+D:\.NET\Project\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.GiaoDienDocGia.resources
+D:\.NET\Project\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.GiaoDienThuThu.resources
+D:\.NET\Project\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.GiaoDienCapNhat.resources
+D:\.NET\Project\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.GiaoDienThemSach.resources
+D:\.NET\Project\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.TimKiemCuaDocGia.resources
+D:\.NET\Project\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.TimKiemCuaThuThu.resources
+D:\.NET\Project\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.TimKiemCuaAdmin.resources
+D:\.NET\Project\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.GiaoDienXoaSach.resources
+D:\.NET\Project\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.Properties.Resources.resources
+D:\.NET\Project\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản lý thư viện.csproj.GenerateResource.cache
+D:\.NET\Project\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản lý thư viện.csproj.CoreCompileInputs.cache
+D:\.NET\Project\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản lý thư viện.exe
+D:\.NET\Project\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản lý thư viện.pdb
